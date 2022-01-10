@@ -1,5 +1,5 @@
 {% set name = "types-frozendict" %}
-{% set version = "2.0.3" %}
+{% set version = "2.0.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-frozendict-{{ version }}.tar.gz
-  sha256: f83ebf656d6ec0ded161a76c71fdbc05f2be883cdad6f0e0baa13c548435e53d
+  sha256: 20fe0def0ee8fcc6065be767dba5d4c3ab10569448ac04f0c6ce503e9c29bcce
 
 build:
   number: 0
